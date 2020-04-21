@@ -1,40 +1,52 @@
-# Zatix
+# Bubble Sort Algorithm
 
->
+## Description
 
-![screenshot](assets/img/screenshot.PNG)
+    We made a bubble sort algorithm that can either sort arrays of numbers or arrays of strings accordingly with the block passed as an argument on the method.
+
+![screenshot](./screenshot.png)
 
 ## Built With
 
+- Ruby
+- Vs Code
+- Rubocop
 
 ## Live Demo
 
-[Live Demo Link](https://raw.githack.com/frankopkusianwar/Zatix/Feature/index.html)
-
+[Live Demo Link](https://repl.it/@expjazz/ProperDramaticMosaic)
 
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
-- Web browser
-- Code editor
-- Git and Github
+
+- Ruby
 
 ### Usage
-- Clone the project to your local machine 
-- Open the index file in your browser
+
+- Clone the project to your local machine
+- Open the buble.rb file on your terminal
 
 ## Author
 
 - Okiror Frank
+- Expedito Andrade
 
-👤 **Author details**
+👤 **Okiror Frank**
 
-- Github: [Okiror Frank](https://github.com/frankopkusianwar)
-- Twitter: [Okiror Frank](https://twitter.com/franko0781)
+- Github: [@frankopkusianwar](https://github.com/frankopkusianwar)
+- Twitter: [@franko0781](https://twitter.com/franko0781)
 - Linkedin: [Okiror Frank](https://linkedin.com/in/frank-okiror-250076b5)
 - Email: okirorfrank3@gmail.com
+
+👤 **Expedito Andrade**
+
+- Github: [@githubexpjazz](https://github.com/expjazz)
+- Twitter: [@expjazz](https://twitter.com/expeditoandrade13)
+- Linkedin: [Expedito Andrade](https://www.linkedin.com/in/expedito-andrade-3645151a4/)
+- Email: expeditojazz@gmail.com
 
 ## 🤝 Contributing
 
@@ -48,7 +60,6 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Mohammed Awad for the layout and design idea
 - Microverse, standup team and the microverse community for helping build the skills that were used on this project
 
 ## 📝 License
